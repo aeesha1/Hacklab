@@ -1,0 +1,85 @@
+body{
+    background-color: #dff5fa;
+}
+
+
+.navbar {
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+    font-weight: bold;
+}
+.nav-container {
+    width:50%;
+    display: inline-block;
+}
+
+.home-text {
+    width: 70%;
+}
+
+.welcome-message {
+    width: 50%;
+    display: inline-block;
+}
+
+
+.divider-bg {
+position:relative;
+width: 120%;
+margin-left:-10%;
+margin-top:-5%
+}
+.divider {
+position:absolute;
+width: 120%;
+margin-left:-10%;
+top:0;
+}
+
+.divide {
+    margin-top:-5%;
+    position: relative;
+    z-index:1
+}
+
+.home-img {
+    position: absolute;
+    top:10px;
+    z-index:2;
+}
+
+
+
+.comp-name {
+    color: red;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+    font-size: 3rem;
+    font-weight: 900;
+    line-height: 1;
+}
+
+.btn {
+    background-color: #4b3cc9;
+    color: #ffffff;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+    font-size: 15px;
+    font-weight: 900;
+}
+
+.sign-up {
+    text-align: center;
+    width:75%;
+
+}
+
+.sign-text {
+    padding-top: 1rem;
+    text-align: center;
+    color: red;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+    font-weight: bold;
+}
+
+.drect{
+ color: #4b3cc9;
+}
+
